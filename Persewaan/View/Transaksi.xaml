@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Persewaan.View.Transaksi"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+              TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+              TextElement.FontWeight="Regular"
+              TextElement.FontSize="13"
+              TextOptions.TextFormattingMode="Ideal"
+              TextOptions.TextRenderingMode="Auto"
+              Background="#FF424242"
+              FontFamily="{DynamicResource MaterialDesignFont}"
+              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+              xmlns:local="clr-namespace:Persewaan.View"
+              mc:Ignorable="d" 
+              d:DesignHeight="600" d:DesignWidth="1000">
+    <Grid Height="600" Width="1000" Margin="45,0,0,0">
+        <StackPanel>
+            <StackPanel>
+                <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtidsewa" Margin="53,50,404,10" FontSize="23" materialDesign:HintAssist.Hint ="No Transaksi" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+                <DatePicker x:Name="dtpTanggalambil" Text="Tanggal Ambil" materialDesign:HintAssist.Hint ="Tanggal Ambil" Foreground="White" FontSize="23" Margin="53,15,0,0" Width="309" HorizontalAlignment="Left"/>
+                <DatePicker x:Name="dtpTanggalpinjam" Text="Tanggal Transaksi" materialDesign:HintAssist.Hint ="Tanggal Kembali" Foreground="White" FontSize="23" Margin="53,15,0,0" Width="309" HorizontalAlignment="Left" />
+                <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtnik" Margin="53,15,404,10" FontSize="23" materialDesign:HintAssist.Hint ="NIK" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+                <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtnomesin" Margin="53,15,404,10" FontSize="23" materialDesign:HintAssist.Hint ="No Pol" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+            </StackPanel>
+            <StackPanel>
+                <Button x:Name="Save" Width="150" Content="Save" Margin="41,18,581,0" Padding="0" VerticalAlignment="Top" Click="btn_save_click"/>
+                <Button x:Name="Edit" Width="150" Content="Edit" Padding="0" Margin="338,-31,312,0" VerticalAlignment="Top" Click="Edit_Click"/>
+                <Button x:Name="Delete" Width="150" Content="Delete" Margin="595,-31,55,0" Padding="0" VerticalAlignment="Top" Background="#FF424242" BorderBrush="White" Click="Delete_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Height="200" Margin="24,0,54,0" VerticalAlignment="Bottom">
+            <DataGrid ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" x:Name="DataGridTransaksi" x:Uid="DataGridCustomer" ItemsSource="{Binding}" Margin="13,25,27,-45" Height="166" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding id_transaksi}" Header="Kode Transaksi" Width="100" />
+                    <DataGridTextColumn Binding="{Binding id_admin}" Header="ID admin" Width="200" />
+                    <DataGridTextColumn Binding="{Binding no_pol}" Header="No Polisi" Width="100" />
+                    <DataGridTextColumn Binding="{Binding tgl_ambil}" Header="Tanggal Ambil" Width="250" />
+                    <DataGridTextColumn Binding="{Binding tgl_kembali}" Header="Tanggal Kembali" Width="100" />
+                    <DataGridTextColumn Binding="{Binding nik}" Header="NIK" Width="100" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Persewaan.View.Coba"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Persewaan.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="120" d:DesignWidth="230">
+    <Grid>
+        <StackPanel Background="White">
+            <Label Content="ORDERS" Margin="0,0,0,0" HorizontalAlignment="left"/>
+            <Label x:Name="idt" Content="Id Trans" Margin="0,-25,4,0" HorizontalAlignment="Right"/>
+            <Label x:Name="NamaCustomer"    Content="Nama Customer" HorizontalAlignment="Left" Height="22" Width="325" FontSize="12" Margin="0,0,-96,0"/>
+            <Label x:Name="JenisKendaraan"  Content="Jenis Kendaraan" HorizontalAlignment="Left" Height="22" Width="325" Margin="0,0,-67,0" FontSize="12"/>
+            <Label x:Name="MerkKendaraan" Content="Merk Kendaraan" HorizontalAlignment="Left" Height="22" Width="325" FontSize="12" Margin="0,0,-86,0"/>
+            <Label x:Name="Totalharga" Content="Total Harga" HorizontalAlignment="Center" Height="28" Width="70" FontSize="12" Margin="0,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

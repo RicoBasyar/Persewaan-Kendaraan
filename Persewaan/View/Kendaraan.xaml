@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="Persewaan.View.Kendaraan"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+              TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+              TextElement.FontWeight="Regular"
+              TextElement.FontSize="13"
+              TextOptions.TextFormattingMode="Ideal"
+              TextOptions.TextRenderingMode="Auto"
+              Background="#FF424242"
+              FontFamily="{DynamicResource MaterialDesignFont}"
+              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+              xmlns:local="clr-namespace:Persewaan.View"
+              mc:Ignorable="d" 
+              d:DesignHeight="600" d:DesignWidth="1000">
+    <Grid Width="1000" Height="600" Margin="45,0,0,0">
+        <TextBlock Text="Pilih Jenis Kendaraan" Margin="34,89,760,482" Foreground="White" FontFamily="Montserrat" FontSize="17"/>
+        <StackPanel Margin="0,-55,0,0">
+            <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtnomesin" Margin="372,81,212,10" FontSize="18" materialDesign:HintAssist.Hint ="No Mesin" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+            <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtnorangka" Margin="372,0,212,10" FontSize="18" materialDesign:HintAssist.Hint ="No Rangka" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+            <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtnopol" Margin="372,0,212,10" FontSize="18" materialDesign:HintAssist.Hint ="No Polisi" Foreground="White" GotFocus="txtnopol_GotFocus"/>
+            <StackPanel Margin="31,-62,815,0" Height="116">
+                <RadioButton x:Name="rdbmotor" IsChecked="True" GroupName="Kendaraan" FontSize="23" Foreground="White" Margin="1,0,0,0" Padding="0" Checked="rdbmotor_Checked" />
+                <Label FontSize="20" Content="Motor" Foreground="White" Margin="0,-24,0,0" HorizontalAlignment="Right" Width="126"/>
+                <RadioButton x:Name="rdbmobil" GroupName="Kendaraan" FontSize="23" Foreground="White" Margin="1,10,0,0" Padding="0" Checked="rdbmobil_Checked" />
+                <Label FontSize="20" Content="Mobil" Foreground="White" Margin="28,-24,0,0"/>
+            </StackPanel>
+            <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="merk" Margin="372,-55,212,10" FontSize="18" materialDesign:HintAssist.Hint ="Merk" Foreground="White" GotFocus="merk_GotFocus"/>
+            <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="harga_perhari" Margin="372,-2,212,10" FontSize="18" materialDesign:HintAssist.Hint ="Harga Perhari (Rp)" Foreground="White" GotFocus="harga_perhari_GotFocus"/>
+            <StackPanel>
+                <Button x:Name="Save" Width="150" Content="Save" Margin="41,18,581,0" Padding="0" VerticalAlignment="Top" Click="Save_Click"/>
+                <Button x:Name="Edit" Width="150" Content="Edit" Padding="0" Margin="338,-31,312,0" VerticalAlignment="Top" Click="Edit_Click"/>
+                <Button x:Name="Delete" Width="150" Content="Delete" Margin="595,-31,55,0" Padding="0" VerticalAlignment="Top" Background="#FF424242" BorderBrush="White" Click="Delete_Click"/>
+            </StackPanel>
+
+            <StackPanel Height="226" Margin="24,0,54,0">
+                <DataGrid ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" x:Name="DataGridKendaraan" x:Uid="DataGridCustomer" ItemsSource="{Binding}" Margin="13,25,27,-45" Height="202" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding no_mesin}" Header="No Mesin" Width="100" />
+                        <DataGridTextColumn Binding="{Binding no_rangka}" Header="No Rangka" Width="200" />
+                        <DataGridTextColumn Binding="{Binding no_pol}" Header="No Polisi" Width="100" />
+                        <DataGridTextColumn Binding="{Binding jenis_kendaraan}" Header="Jenis Kendaraan" Width="250" />
+                        <DataGridTextColumn Binding="{Binding merk_kendaraan}" Header="Merk Kendaraan" Width="100" />
+                        <DataGridTextColumn Binding="{Binding harga_perhari}" Header="Harga Perhari" Width="100" />
+                        <DataGridTextColumn Binding="{Binding id_admin}" Header="Id Admin" Width="100" />
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </StackPanel>
+        </StackPanel>
+        <TextBlock Text="Kendaraan" Margin="28,24,630,528" FontFamily="Montserrat" FontWeight="Bold" FontSize="35" Foreground="White"/>
+    </Grid>
+</UserControl>

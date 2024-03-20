@@ -1,0 +1,123 @@
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe.config
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.pdb
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.dll
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.pdb
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csprojAssemblyReference.cache
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\App.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.cache
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.lref
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\App.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.g.resources
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.Properties.Resources.resources
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.GenerateResource.cache
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.CopyComplete
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.exe
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.pdb
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.g.cs
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.baml
+E:\Rico\FP\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe.config
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.pdb
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.dll
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.pdb
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csprojAssemblyReference.cache
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\App.g.cs
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.cache
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.lref
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\App.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.baml
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.g.resources
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.Properties.Resources.resources
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.GenerateResource.cache
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.CopyComplete
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.exe
+E:\AMIKOM 2019\Semester 3\Pemrograman\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.pdb
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe.config
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.exe
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\Persewaan.pdb
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.dll
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csprojAssemblyReference.cache
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\App.g.cs
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.cache
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan_MarkupCompile.lref
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\App.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Coba.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Customer.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Dashboard.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\HargaTotal.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Kendaraan.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Login.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\MainMenu.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Nota.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\NotaData.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\Transaksi.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\View\TransID.baml
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.g.resources
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.Properties.Resources.resources
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.GenerateResource.cache
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.csproj.CopyComplete
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.exe
+C:\Users\ryoug\OneDrive\Documents\Fp tambahan\Fp\Persewaan\Persewaan\Persewaan\obj\Debug\Persewaan.pdb
